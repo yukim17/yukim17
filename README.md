@@ -1,4 +1,4 @@
-# Hi there, I'm Ekaterina 👋
+# Hi there, I'm Kate 👋
 <p>
     <a href="https://www.linkedin.com/in/eagrishina/" alt="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-white?logo=Linkedin&logoColor=black"></a>&nbsp;
      <a href="https://t.me/Kate_Grish" alt="Telegram"><img src="https://img.shields.io/badge/-Telegram-white?logo=Telegram&logoColor=black"></a>&nbsp;
